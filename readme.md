@@ -1,17 +1,17 @@
-# @skyrpex/opaque
+# opaque-type
 
 An opaque type helper.
 
 ## Installation
 
 ```sh
-npm install @skyrpex/opaque
+npm install opaque-type
 ```
 
 ## Usage
 
 ```ts
-import type { Opaque } from "@skyrpex/opaque";
+import type { Opaque } from "opaque-type";
 
 type AccountId = Opaque<number, "AccountId">;
 ```
