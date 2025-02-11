@@ -1,6 +1,6 @@
 {
 	"name": "opaque-type",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "An opaque type helper",
 	"author": {
 		"name": "Cristian Pallarés",
